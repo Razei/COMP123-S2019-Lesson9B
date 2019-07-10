@@ -13,7 +13,7 @@ namespace COMP123_S2019_Lesson9
     public partial class CalculatorForm : Form
     {
         /// <summary>
-        /// this is the constructor for the calculator form
+        /// This is the constructor for the calculator form
         /// </summary>
         public CalculatorForm()
         {
@@ -21,7 +21,7 @@ namespace COMP123_S2019_Lesson9
         }
 
         /// <summary>
-        /// this is the event handler for all the calculator buttons
+        /// This is the event handler for all the calculator buttons
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
